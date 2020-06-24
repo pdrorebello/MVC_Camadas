@@ -1,0 +1,9 @@
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\bin\Debug\WebAppMVC.DAL.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\bin\Debug\WebAppMVC.DAL.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\bin\Debug\WebAppMVC.Entity.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\bin\Debug\WebAppMVC.Entity.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\obj\Debug\WebAppMVC.DAL.csprojAssemblyReference.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\obj\Debug\WebAppMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\obj\Debug\WebAppMVC.DAL.csproj.CopyComplete
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\obj\Debug\WebAppMVC.DAL.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.DAL\obj\Debug\WebAppMVC.DAL.pdb

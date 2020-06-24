@@ -1,0 +1,6 @@
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\bin\Debug\WebAppMVC.Entity.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\bin\Debug\WebAppMVC.Entity.pdb
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\obj\Debug\WebAppMVC.Entity.csprojAssemblyReference.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\obj\Debug\WebAppMVC.Entity.csproj.CoreCompileInputs.cache
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\obj\Debug\WebAppMVC.Entity.dll
+C:\Cursos\MVC\FirstWebAppMVC\WebAppMVC.Entity\obj\Debug\WebAppMVC.Entity.pdb
